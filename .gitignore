@@ -1,0 +1,52 @@
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
+lib/
+
+# Logs
+*.log
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Mac system files
+.DS_Store
+
+# IDE and editor folders
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Environment variables
+.env
+.env.*
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Yarn Integrity file
+.yarn-integrity
+
+# NPM package lock file (optional, usually committed)
+package-lock.json
+
+# Exclude npm package lock file if you use yarn
+# yarn.lock
+
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Coverage directory used by tools like Jest
+coverage/
+
+# Recompilation
+*.cache
+*.temp
